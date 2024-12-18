@@ -25,3 +25,14 @@ let numeroGrande = 2n
 
 //COMPLEJOS
 
+//Object es una estructura que almacena pares clave-valor.
+let persona = { nombre: "Santiago", edad: 25 };  
+
+//Array son listas ordenadas de valores.
+let frutas = ["manzana", "pera", "uva"];  
+
+//Function son bloques de código reutilizables
+function saludar() {
+    console.log("¡Hola Mundo!");
+}
+saludar(); // Invoca la función  
