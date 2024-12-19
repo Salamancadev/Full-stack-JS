@@ -2,7 +2,7 @@
 
 // && AND: Si este valor y este valor hacen algo pasa esto
 // || OR:  Si este valor A o este valor B cumplen hacen algo
-// !  NOT: Negación, invierte el valor d ela afirmacion
+// !  NOT: Negación, invierte el valor de la afirmacion
 
 const a = 10;
 const b = 20;
