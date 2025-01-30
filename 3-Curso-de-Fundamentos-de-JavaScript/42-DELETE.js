@@ -92,4 +92,4 @@ postList.addEventListener("click", (event) =>{
     }
 });
 
-//
+// Lo unico que faltaria si fuera real la API es que el servidor lo borre o teque hacer un nuevo request
